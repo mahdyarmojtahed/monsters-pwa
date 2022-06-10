@@ -11,7 +11,9 @@ Create a free acount in netlify website
 Create a new WebSite and upload website using github
 
 ### Step 3
-use Lighthouse CLI or Extension to check your pwa
+use Lighthouse CLI or Extension to check your PWA
+you can turn off internet connection to see the application still works
+also you can open it with your phone and add install it 
 
 ### Tip
 if deployment failed you can use this stackoverflow question :
