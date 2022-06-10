@@ -1,0 +1,8 @@
+
+.search {
+      padding: .5rem 1rem;
+      border: transparent;
+      transition: all .3s linear;
+      &::placeholder{}
+      &:focus {outline: none; transform: scale(1.05);}
+}

@@ -1,0 +1,19 @@
+
+.card {
+      display: flex;
+      flex-direction: column;
+      background-color: #95dada;
+      border: 1px solid grey;
+      border-radius: 5px;
+      padding: 25px;
+      cursor: pointer;
+      transition: all .25s ease-out;
+      width: 280px;
+      height: 360px;
+      
+      
+
+      &:hover {
+            transform: scale(1.05);
+      }
+}
