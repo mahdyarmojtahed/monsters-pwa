@@ -1,2 +1,19 @@
 # monsters-pwa
-Simple Progressive Web App
+
+Simple Progressive Web App 
+
+
+
+***Step 1 ***
+Create a free acount in netlify website 
+
+***Step 2 ***
+Create a new WebSite and upload website using github
+
+***Tip ***
+if deployment failed you can use this stackoverflow question :
+https://stackoverflow.com/questions/64468843/netlify-deployment-failed-during-stage-building-site-build-script-returned-n
+
+
+
+
